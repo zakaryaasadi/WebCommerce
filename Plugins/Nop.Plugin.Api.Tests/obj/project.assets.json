@@ -1,0 +1,244 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.6.1": {
+      "AutoMock/1.0.3.2": {
+        "type": "package",
+        "dependencies": {
+          "RhinoMocks": "3.6.1"
+        },
+        "compile": {
+          "lib/net40/AutoMock.dll": {}
+        },
+        "runtime": {
+          "lib/net40/AutoMock.dll": {}
+        }
+      },
+      "NUnit/3.9.0": {
+        "type": "package",
+        "compile": {
+          "lib/net45/nunit.framework.dll": {}
+        },
+        "runtime": {
+          "lib/net45/nunit.framework.dll": {}
+        }
+      },
+      "RhinoMocks/3.6.1": {
+        "type": "package",
+        "compile": {
+          "lib/net/Rhino.Mocks.dll": {}
+        },
+        "runtime": {
+          "lib/net/Rhino.Mocks.dll": {}
+        }
+      },
+      "Nop.Core/4.3.0": {
+        "type": "project",
+        "framework": "Unsupported,Version=v0.0",
+        "compile": {
+          "bin/placeholder/Nop.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Nop.Core.dll": {}
+        }
+      },
+      "Nop.Plugin.Api/0.0.1-local": {
+        "type": "project",
+        "framework": "Unsupported,Version=v0.0",
+        "compile": {
+          "bin/placeholder/Nop.Plugin.Api.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Nop.Plugin.Api.dll": {}
+        }
+      },
+      "Nop.Services/4.3.0": {
+        "type": "project",
+        "framework": "Unsupported,Version=v0.0",
+        "compile": {
+          "bin/placeholder/Nop.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Nop.Services.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AutoMock/1.0.3.2": {
+      "sha512": "u1LwuqXLklNK/G1hzlc6VoMge03RibdoFsMlPlFjKbjn185q41UWqyWeyeoVhFUAWOiALKGLRZNULhaNsNHjvg==",
+      "type": "package",
+      "path": "automock/1.0.3.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "automock.1.0.3.2.nupkg.sha512",
+        "automock.nuspec",
+        "lib/net40/AutoMock.dll"
+      ]
+    },
+    "NUnit/3.9.0": {
+      "sha512": "0zKA0MB0bRKqPyInRlTgKvZTx/MhJGGnSUJ4sjx68JnfVGbH0Tp+Xq7uW+HVw0B5gCN8s0pUQlrbC3mjGyUU8A==",
+      "type": "package",
+      "path": "nunit/3.9.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "CHANGES.md",
+        "LICENSE.txt",
+        "NOTICES.txt",
+        "lib/monoandroid/nunit.framework.dll",
+        "lib/monoandroid/nunit.framework.xml",
+        "lib/net20/NUnit.System.Linq.dll",
+        "lib/net20/nunit.framework.dll",
+        "lib/net20/nunit.framework.xml",
+        "lib/net35/nunit.framework.dll",
+        "lib/net35/nunit.framework.xml",
+        "lib/net40/nunit.framework.dll",
+        "lib/net40/nunit.framework.xml",
+        "lib/net45/nunit.framework.dll",
+        "lib/net45/nunit.framework.xml",
+        "lib/netstandard1.3/nunit.framework.dll",
+        "lib/netstandard1.3/nunit.framework.xml",
+        "lib/netstandard1.6/nunit.framework.dll",
+        "lib/netstandard1.6/nunit.framework.xml",
+        "lib/uap/nunit.framework.dll",
+        "lib/uap/nunit.framework.xml",
+        "lib/xamarin.ios/nunit.framework.dll",
+        "lib/xamarin.ios/nunit.framework.xml",
+        "nunit.3.9.0.nupkg.sha512",
+        "nunit.nuspec"
+      ]
+    },
+    "RhinoMocks/3.6.1": {
+      "sha512": "0HjdR7PVVUDz9Db5cLzU0Dquay8MhoCoZ8PJRZOo10Iysq4m+mjl2aaxc4eWztvZ6S1v/NYW5xv1qul0ToN21w==",
+      "type": "package",
+      "path": "rhinomocks/3.6.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net/Rhino.Mocks.dll",
+        "lib/net/Rhino.Mocks.xml",
+        "rhinomocks.3.6.1.nupkg.sha512",
+        "rhinomocks.nuspec"
+      ]
+    },
+    "Nop.Core/4.3.0": {
+      "type": "project",
+      "path": "../../Libraries/Nop.Core/Nop.Core.csproj",
+      "msbuildProject": "../../Libraries/Nop.Core/Nop.Core.csproj"
+    },
+    "Nop.Plugin.Api/0.0.1-local": {
+      "type": "project",
+      "path": "../Nop.Plugin.Api/Nop.Plugin.Api.csproj",
+      "msbuildProject": "../Nop.Plugin.Api/Nop.Plugin.Api.csproj"
+    },
+    "Nop.Services/4.3.0": {
+      "type": "project",
+      "path": "../../Libraries/Nop.Services/Nop.Services.csproj",
+      "msbuildProject": "../../Libraries/Nop.Services/Nop.Services.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.6.1": [
+      "AutoMock >= 1.0.3.2",
+      "NUnit >= 3.9.0",
+      "Nop.Core >= 4.3.0",
+      "Nop.Plugin.Api >= 0.0.1-local",
+      "Nop.Services >= 4.3.0",
+      "RhinoMocks >= 3.6.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\ZAKARYA\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "4.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\ASP\\nopEcommerce\\Plugins\\Nop.Plugin.Api.Tests\\Nop.Plugin.Api.Tests.csproj",
+      "projectName": "Nop.Plugin.Api.Tests",
+      "projectPath": "D:\\ASP\\nopEcommerce\\Plugins\\Nop.Plugin.Api.Tests\\Nop.Plugin.Api.Tests.csproj",
+      "packagesPath": "C:\\Users\\ZAKARYA\\.nuget\\packages\\",
+      "outputPath": "D:\\ASP\\nopEcommerce\\Plugins\\Nop.Plugin.Api.Tests\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\ZAKARYA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net461"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net461": {
+          "projectReferences": {
+            "D:\\ASP\\nopEcommerce\\Libraries\\Nop.Core\\Nop.Core.csproj": {
+              "projectPath": "D:\\ASP\\nopEcommerce\\Libraries\\Nop.Core\\Nop.Core.csproj"
+            },
+            "D:\\ASP\\nopEcommerce\\Libraries\\Nop.Services\\Nop.Services.csproj": {
+              "projectPath": "D:\\ASP\\nopEcommerce\\Libraries\\Nop.Services\\Nop.Services.csproj"
+            },
+            "D:\\ASP\\nopEcommerce\\Plugins\\Nop.Plugin.Api\\Nop.Plugin.Api.csproj": {
+              "projectPath": "D:\\ASP\\nopEcommerce\\Plugins\\Nop.Plugin.Api\\Nop.Plugin.Api.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net461": {
+        "dependencies": {
+          "AutoMock": {
+            "target": "Package",
+            "version": "[1.0.3.2, )"
+          },
+          "NUnit": {
+            "target": "Package",
+            "version": "[3.9.0, )"
+          },
+          "RhinoMocks": {
+            "target": "Package",
+            "version": "[3.6.1, )"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.107\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project Nop.Plugin.Api is not compatible with net461 (.NETFramework,Version=v4.6.1). Project Nop.Plugin.Api supports: netcoreapp3.1 (.NETCoreApp,Version=v3.1)",
+      "libraryId": "Nop.Plugin.Api",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6.1"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project Nop.Services is not compatible with net461 (.NETFramework,Version=v4.6.1). Project Nop.Services supports: netcoreapp3.1 (.NETCoreApp,Version=v3.1)",
+      "libraryId": "Nop.Services",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6.1"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project Nop.Core is not compatible with net461 (.NETFramework,Version=v4.6.1). Project Nop.Core supports: netcoreapp3.1 (.NETCoreApp,Version=v3.1)",
+      "libraryId": "Nop.Core",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6.1"
+      ]
+    }
+  ]
+}

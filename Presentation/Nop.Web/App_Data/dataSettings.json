@@ -1,0 +1,5 @@
+﻿{
+  "DataConnectionString": "Data Source=.;Initial Catalog=nopDB;Integrated Security=True",
+  "DataProvider": "sqlserver",
+  "RawDataSettings": {}
+}

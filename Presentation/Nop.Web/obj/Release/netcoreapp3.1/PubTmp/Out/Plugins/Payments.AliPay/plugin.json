@@ -1,0 +1,16 @@
+﻿{
+  "Group": "Payment methods",
+  "FriendlyName": "AliPay",
+  "SupportedVersions": [
+    "4.30"
+  ],
+  "Author": "Systex team",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Payments.AliPay.dll",
+  "Description": "This payment module allows you to integrate with AliPay, payment module.这个插件允许你是要支付宝作为付款方式。",
+  "LimitedToStores": [],
+  "LimitedToCustomerRoles": [],
+  "DependsOnSystemNames": [],
+  "SystemName": "Payments.AliPay",
+  "Version": "1.00"
+}

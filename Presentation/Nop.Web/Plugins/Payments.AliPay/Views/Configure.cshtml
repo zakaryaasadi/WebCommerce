@@ -1,0 +1,95 @@
+﻿@{
+    Layout = "_ConfigurePlugin";
+}
+@model Nop.Plugin.Payments.AliPay.Models.ConfigurationModel
+@using Nop.Plugin.Payments.AliPay.Models
+@using Nop.Web.Framework;
+@await Component.InvokeAsync("StoreScopeConfiguration")
+<form asp-controller="AliPay" asp-action="Configure" method="post">
+    <div class="panel-group">
+        <div class="panel panel-default">
+            <div class="panel-body">
+                <div class="form-group">
+                    <div class="col-md-3">
+                        <nop-override-store-checkbox asp-for="UseSandbox_OverrideForStore" asp-input="UseSandbox" asp-store-scope="@Model.ActiveStoreScopeConfiguration" />
+                        <nop-label asp-for="UseSandbox" />
+                    </div>
+                    <div class="col-md-9">
+                        <nop-editor asp-for="UseSandbox" />
+                        <span asp-validation-for="UseSandbox"></span>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-md-3">
+                        <nop-override-store-checkbox asp-for="AppId_OverrideForStore" asp-input="AppId" asp-store-scope="@Model.ActiveStoreScopeConfiguration" />
+                        <nop-label asp-for="AppId" />
+                    </div>
+                    <div class="col-md-9">
+                        <nop-editor asp-for="AppId" />
+                        <span asp-for="AppId"></span>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-md-3">
+                        <nop-override-store-checkbox asp-for="SellerId_OverrideForStore" asp-input="SellerId" asp-store-scope="@Model.ActiveStoreScopeConfiguration" />
+                        <nop-label asp-for="SellerId" />
+                    </div>
+                    <div class="col-md-9">
+                        <nop-editor asp-for="SellerId" />
+                        <span asp-for="SellerId"></span>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-md-3">
+                        <nop-override-store-checkbox asp-for="PrivateKey_OverrideForStore" asp-input="PrivateKey" asp-store-scope="@Model.ActiveStoreScopeConfiguration" />
+                        <nop-label asp-for="PrivateKey" />
+                    </div>
+                    <div class="col-md-9">
+                        <nop-textarea asp-for="PrivateKey" />
+                        <span asp-for="PrivateKey"></span>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-md-3">
+                        <nop-override-store-checkbox asp-for="PublicKey_OverrideForStore" asp-input="PublicKey" asp-store-scope="@Model.ActiveStoreScopeConfiguration" />
+                        <nop-label asp-for="PublicKey" />
+                    </div>
+                    <div class="col-md-9">
+                        <nop-textarea asp-for="PublicKey" />
+                        <span asp-for="PublicKey"></span>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-md-3">
+                        <nop-override-store-checkbox asp-for="AdditionalFee_OverrideForStore" asp-input="AdditionalFee" asp-store-scope="@Model.ActiveStoreScopeConfiguration" />
+                        <nop-label asp-for="AdditionalFee" />
+                    </div>
+                    <div class="col-md-9">
+                        <nop-editor asp-for="AdditionalFee" />
+                        <span asp-for="AdditionalFee"></span>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-md-9 col-md-offset-3">
+                        <input type="submit" name="save" class="btn bg-blue" value="@T(" Admin.Common.Save")" />
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-md-3">
+                        <div class="label-wrapper">
+                            <label class="control-label">配置</label>
+                            <div title="" data-toggle="tooltip" class="ico-help">
+                                <i class="fa fa-question-circle"></i>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-9 col-md-offset-3">
+                        <a href="https://openhome.alipay.com/platform/keyManage.htm" target="_blank">
+                            <img src="/Plugins/Payments.AliPay/Config.png" class="rounded img-responsive" alt="配置" />开发平台配置
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
