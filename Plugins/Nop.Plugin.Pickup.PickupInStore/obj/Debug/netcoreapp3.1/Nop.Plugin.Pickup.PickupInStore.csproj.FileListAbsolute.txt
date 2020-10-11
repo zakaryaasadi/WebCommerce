@@ -565,7 +565,6 @@ D:\ASP\WebCommerce\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\refs\System
 D:\ASP\WebCommerce\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\refs\System.Xml.XPath.dll
 D:\ASP\WebCommerce\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\refs\System.Xml.XPath.XDocument.dll
 D:\ASP\WebCommerce\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\refs\WindowsBase.dll
-D:\ASP\WebCommerce\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Debug\netcoreapp3.1\Nop.Plugin.Pickup.PickupInStore.csprojAssemblyReference.cache
 D:\ASP\WebCommerce\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Debug\netcoreapp3.1\Nop.Plugin.Pickup.PickupInStore.AssemblyInfoInputs.cache
 D:\ASP\WebCommerce\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Debug\netcoreapp3.1\Nop.Plugin.Pickup.PickupInStore.AssemblyInfo.cs
 D:\ASP\WebCommerce\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Debug\netcoreapp3.1\Nop.Plugin.Pickup.PickupInStore.csproj.CopyComplete

@@ -562,7 +562,6 @@ D:\ASP\WebCommerce\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\refs\Sys
 D:\ASP\WebCommerce\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\refs\System.Xml.XPath.dll
 D:\ASP\WebCommerce\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\refs\System.Xml.XPath.XDocument.dll
 D:\ASP\WebCommerce\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\refs\WindowsBase.dll
-D:\ASP\WebCommerce\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\netcoreapp3.1\Nop.Plugin.Payments.PayPalStandard.csprojAssemblyReference.cache
 D:\ASP\WebCommerce\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\netcoreapp3.1\Nop.Plugin.Payments.PayPalStandard.AssemblyInfoInputs.cache
 D:\ASP\WebCommerce\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\netcoreapp3.1\Nop.Plugin.Payments.PayPalStandard.AssemblyInfo.cs
 D:\ASP\WebCommerce\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\netcoreapp3.1\Nop.Plugin.Payments.PayPalStandard.csproj.CopyComplete

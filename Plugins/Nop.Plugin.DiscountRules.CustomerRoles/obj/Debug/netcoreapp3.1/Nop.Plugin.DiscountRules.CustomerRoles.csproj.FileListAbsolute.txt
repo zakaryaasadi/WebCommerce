@@ -559,7 +559,6 @@ D:\ASP\WebCommerce\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\refs
 D:\ASP\WebCommerce\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\refs\System.Xml.XPath.dll
 D:\ASP\WebCommerce\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\refs\System.Xml.XPath.XDocument.dll
 D:\ASP\WebCommerce\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\refs\WindowsBase.dll
-D:\ASP\WebCommerce\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Debug\netcoreapp3.1\Nop.Plugin.DiscountRules.CustomerRoles.csprojAssemblyReference.cache
 D:\ASP\WebCommerce\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Debug\netcoreapp3.1\Nop.Plugin.DiscountRules.CustomerRoles.AssemblyInfoInputs.cache
 D:\ASP\WebCommerce\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Debug\netcoreapp3.1\Nop.Plugin.DiscountRules.CustomerRoles.AssemblyInfo.cs
 D:\ASP\WebCommerce\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Debug\netcoreapp3.1\Nop.Plugin.DiscountRules.CustomerRoles.csproj.CopyComplete

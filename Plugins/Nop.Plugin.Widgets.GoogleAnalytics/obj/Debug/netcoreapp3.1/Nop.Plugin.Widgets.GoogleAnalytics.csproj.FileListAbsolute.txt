@@ -561,7 +561,6 @@ D:\ASP\WebCommerce\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\refs\Sys
 D:\ASP\WebCommerce\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\refs\System.Xml.XPath.dll
 D:\ASP\WebCommerce\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\refs\System.Xml.XPath.XDocument.dll
 D:\ASP\WebCommerce\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\refs\WindowsBase.dll
-D:\ASP\WebCommerce\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\netcoreapp3.1\Nop.Plugin.Widgets.GoogleAnalytics.csprojAssemblyReference.cache
 D:\ASP\WebCommerce\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\netcoreapp3.1\Nop.Plugin.Widgets.GoogleAnalytics.AssemblyInfoInputs.cache
 D:\ASP\WebCommerce\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\netcoreapp3.1\Nop.Plugin.Widgets.GoogleAnalytics.AssemblyInfo.cs
 D:\ASP\WebCommerce\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\netcoreapp3.1\Nop.Plugin.Widgets.GoogleAnalytics.csproj.CopyComplete

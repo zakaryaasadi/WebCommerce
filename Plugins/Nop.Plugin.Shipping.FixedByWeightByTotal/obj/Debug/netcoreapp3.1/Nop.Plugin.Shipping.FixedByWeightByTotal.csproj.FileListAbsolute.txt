@@ -569,7 +569,6 @@ D:\ASP\WebCommerce\Presentation\Nop.Web\Plugins\Shipping.FixedByWeightByTotal\re
 D:\ASP\WebCommerce\Presentation\Nop.Web\Plugins\Shipping.FixedByWeightByTotal\refs\System.Xml.XPath.dll
 D:\ASP\WebCommerce\Presentation\Nop.Web\Plugins\Shipping.FixedByWeightByTotal\refs\System.Xml.XPath.XDocument.dll
 D:\ASP\WebCommerce\Presentation\Nop.Web\Plugins\Shipping.FixedByWeightByTotal\refs\WindowsBase.dll
-D:\ASP\WebCommerce\Plugins\Nop.Plugin.Shipping.FixedByWeightByTotal\obj\Debug\netcoreapp3.1\Nop.Plugin.Shipping.FixedByWeightByTotal.csprojAssemblyReference.cache
 D:\ASP\WebCommerce\Plugins\Nop.Plugin.Shipping.FixedByWeightByTotal\obj\Debug\netcoreapp3.1\Nop.Plugin.Shipping.FixedByWeightByTotal.AssemblyInfoInputs.cache
 D:\ASP\WebCommerce\Plugins\Nop.Plugin.Shipping.FixedByWeightByTotal\obj\Debug\netcoreapp3.1\Nop.Plugin.Shipping.FixedByWeightByTotal.AssemblyInfo.cs
 D:\ASP\WebCommerce\Plugins\Nop.Plugin.Shipping.FixedByWeightByTotal\obj\Debug\netcoreapp3.1\Nop.Plugin.Shipping.FixedByWeightByTotal.csproj.CopyComplete

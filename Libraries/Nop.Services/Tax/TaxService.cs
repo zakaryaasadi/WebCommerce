@@ -261,7 +261,7 @@ namespace Nop.Services.Tax
             if (increase)
                 result = price * (1 + percent / 100);
             else
-                result = price - price / (100 + percent) * percent;
+                result = price * (1 - percent / 100); // price - price / (100 + percent) * percent;
 
             return result;
         }

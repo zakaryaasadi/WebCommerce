@@ -572,7 +572,6 @@ D:\ASP\WebCommerce\Presentation\Nop.Web\Plugins\Widgets.FacebookPixel\refs\Syste
 D:\ASP\WebCommerce\Presentation\Nop.Web\Plugins\Widgets.FacebookPixel\refs\System.Xml.XPath.dll
 D:\ASP\WebCommerce\Presentation\Nop.Web\Plugins\Widgets.FacebookPixel\refs\System.Xml.XPath.XDocument.dll
 D:\ASP\WebCommerce\Presentation\Nop.Web\Plugins\Widgets.FacebookPixel\refs\WindowsBase.dll
-D:\ASP\WebCommerce\Plugins\Nop.Plugin.Widgets.FacebookPixel\obj\Debug\netcoreapp3.1\Nop.Plugin.Widgets.FacebookPixel.csprojAssemblyReference.cache
 D:\ASP\WebCommerce\Plugins\Nop.Plugin.Widgets.FacebookPixel\obj\Debug\netcoreapp3.1\Nop.Plugin.Widgets.FacebookPixel.AssemblyInfoInputs.cache
 D:\ASP\WebCommerce\Plugins\Nop.Plugin.Widgets.FacebookPixel\obj\Debug\netcoreapp3.1\Nop.Plugin.Widgets.FacebookPixel.AssemblyInfo.cs
 D:\ASP\WebCommerce\Plugins\Nop.Plugin.Widgets.FacebookPixel\obj\Debug\netcoreapp3.1\Nop.Plugin.Widgets.FacebookPixel.csproj.CopyComplete

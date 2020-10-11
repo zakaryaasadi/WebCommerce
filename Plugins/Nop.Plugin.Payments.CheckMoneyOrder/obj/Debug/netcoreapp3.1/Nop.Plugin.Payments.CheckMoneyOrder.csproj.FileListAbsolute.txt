@@ -562,7 +562,6 @@ D:\ASP\WebCommerce\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\refs\Sy
 D:\ASP\WebCommerce\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\refs\System.Xml.XPath.dll
 D:\ASP\WebCommerce\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\refs\System.Xml.XPath.XDocument.dll
 D:\ASP\WebCommerce\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\refs\WindowsBase.dll
-D:\ASP\WebCommerce\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\netcoreapp3.1\Nop.Plugin.Payments.CheckMoneyOrder.csprojAssemblyReference.cache
 D:\ASP\WebCommerce\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\netcoreapp3.1\Nop.Plugin.Payments.CheckMoneyOrder.AssemblyInfoInputs.cache
 D:\ASP\WebCommerce\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\netcoreapp3.1\Nop.Plugin.Payments.CheckMoneyOrder.AssemblyInfo.cs
 D:\ASP\WebCommerce\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\netcoreapp3.1\Nop.Plugin.Payments.CheckMoneyOrder.csproj.CopyComplete
